@@ -9,8 +9,8 @@
 ### - Expo
 
 ------------------------------------------------
-App where users can register where they placed items to be recicled in the recicle point.
-User chooses the location on the map and what kind of items were placed. Responsible for the removal of
+App where users can register if they placed items to be recicled in the recicle point.
+User chooses the location on the map and what kind of items were placed. The entity responsible for the removal of
 the items (recicle company or city workers) can check all the locations entered and type of items to be removed in the admin mobile app.
 
 ## Welcome screen :
@@ -31,10 +31,10 @@ the items (recicle company or city workers) can check all the locations entered 
 ## Mobile App point and item selection screen :
 ![Screenshot_2020-08-19-13-58-41-716_host exp exponent](https://user-images.githubusercontent.com/37440264/90661351-013fd900-e23f-11ea-8ddf-8e4b0bcc46d5.jpg)
 
-## Mobile App admin screen with all the points registered, points can be filtered by type of items placed, when pressing the point opens the details page of that point :
+## Mobile App admin screen with all the points registered, points can be filtered by type of items placed, when pressing the point, opens the details page of that point :
 ![Screenshot_2020-08-19-13-59-55-992_host exp exponent](https://user-images.githubusercontent.com/37440264/90661425-187ec680-e23f-11ea-8396-6030b1f99016.jpg)
 
-## Mobile App admin screen with details of the point, point can be deleted after all the items were colected :
+## Mobile App admin screen with details of a point, point can be deleted after all the items were colected :
 ![Screenshot_2020-08-19-13-59-37-163_host exp exponent](https://user-images.githubusercontent.com/37440264/90661379-0ac94100-e23f-11ea-95cd-be38bf58cc78.jpg)
 
 
