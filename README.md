@@ -3,6 +3,7 @@
 ## Full-stack Web & Mobile App
 
 ### - Typescript
+### - Node.js
 ### - ReactJS
 ### - React Native
 ### - CSS
