@@ -16,15 +16,15 @@ the items (recicle company or city workers) can check all the locations entered 
 
 ## Welcome screen :
 
-![Captura de ecrã de 2020-08-19 08-56-49](https://user-images.githubusercontent.com/37440264/90661739-727f8c00-e23f-11ea-953d-88e2533245ce.png)
+![Captura de ecrã de 2020-08-20 09-05-49](https://user-images.githubusercontent.com/37440264/90739732-a4880100-e2c6-11ea-8ad5-a40afc8a3ee3.png)
 
 ## Point and item selection screen :
 
-![Captura de ecrã de 2020-08-19 08-56-59](https://user-images.githubusercontent.com/37440264/90661786-7e6b4e00-e23f-11ea-844e-5afef06f3820.png)
+![Captura de ecrã de 2020-08-20 09-05-05](https://user-images.githubusercontent.com/37440264/90740424-d4370900-e2c6-11ea-8a3a-8e3cb030ac08.png)
 
 ## Error when selecting no location or kind of items placed :
 
-![Captura de ecrã de 2020-08-19 13-49-55](https://user-images.githubusercontent.com/37440264/90661821-8a571000-e23f-11ea-83e8-4a6231c6b250.png)
+![Captura de ecrã de 2020-08-20 09-05-34](https://user-images.githubusercontent.com/37440264/90740610-e153f800-e2c6-11ea-81f0-4605a5b9627c.png)
 
 ## Mobile App welcome screen :
 ![Screenshot_2020-08-19-13-58-20-388_host exp exponent](https://user-images.githubusercontent.com/37440264/90661327-f84f0780-e23e-11ea-91fa-6b40813336ca.jpg)
