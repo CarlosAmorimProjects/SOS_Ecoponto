@@ -22,7 +22,7 @@ the items (recicle company or city workers) can check all the locations entered 
 
 ![Captura de ecrã de 2020-08-20 09-05-05](https://user-images.githubusercontent.com/37440264/90740424-d4370900-e2c6-11ea-8a3a-8e3cb030ac08.png)
 
-## Error when selecting no location or kind of items placed :
+## Error control :
 
 ![Captura de ecrã de 2020-08-20 09-05-34](https://user-images.githubusercontent.com/37440264/90740610-e153f800-e2c6-11ea-81f0-4605a5b9627c.png)
 
