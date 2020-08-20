@@ -15,8 +15,8 @@ const Home = () => {
                 </header>
 
                 <main>
-                    <h1>Tem residuos renováveis* que não podem ser colocados no ecoponto mais próximo ?</h1>
-                    <p>Coloque junto ao ecoponto, utilize a App para notificar o local e tipo de residuos, e nós recolhemos.</p>
+                    <h1>Tem resíduos renováveis* que não podem ser colocados no ecoponto mais próximo ?</h1>
+                    <p>Coloque junto ao ecoponto, utilize a App para notificar o local e tipo de resíduo, e nós recolhemos.</p>
 
                     <Link to="/create-point">
                     <span>
@@ -27,7 +27,7 @@ const Home = () => {
                     </strong>
                     </Link>
                     
-                    <p className='residuos'>*Baterias, Componentes electrónicos, Lâmpadas, Óleo doméstico, Papelão, Residuos orgânicos.</p>
+                    <p className='residuos'>*Baterias, componentes electrónicos, lâmpadas, óleo doméstico, papelão, residuos orgânicos.</p>
                 </main>
 
                

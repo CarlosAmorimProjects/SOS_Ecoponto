@@ -1,4 +1,4 @@
-import React, { useEffect, useState, ChangeEvent, FormEvent } from 'react';
+import React, { useEffect, useState, FormEvent } from 'react';
 import {Link, useHistory} from 'react-router-dom';
 import {FiArrowLeft} from 'react-icons/fi';
 import {Map, TileLayer, Marker} from 'react-leaflet';
@@ -83,7 +83,7 @@ interface Item {
             else if ( Array.isArray(items) && !items.length) {
                 swal({
                     icon: "error",
-                    text: "Selecione o tipo de residuo a recolher",
+                    text: "Selecione o tipo de resíduo a recolher",
                     buttons: ['Sair'],
                   });
             }
@@ -122,8 +122,8 @@ interface Item {
                     </Map>
                 <fieldset>
                     <legend>
-                        <h2>Itens depositados</h2>
-                        <span>Selecione um ou mais itens abaixo</span>
+                        <h2>Resíduos depositados:</h2>
+                        <span>Selecione um ou mais tipos de resíduos abaixo</span>
                     </legend>
 
                      <ul className="items-grid">
